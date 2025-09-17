@@ -1,0 +1,15 @@
+{
+    "kitaplar": [],
+    "kullanicilar": [
+        {
+            "ad": "deneme",
+            "sifre": "Aaf43",
+            "odunc_kitaplar": []
+        },
+        {
+            "ad": "fahri",
+            "sifre": "Aa123456",
+            "odunc_kitaplar": []
+        }
+    ]
+}
